@@ -16,9 +16,9 @@ class Emp1 extends company
     String name;
     float salary;
     
-    void getEmp(int id,String n,float sal)
+    void getEmp(int i,String n,float sal)
     {
-        id=id;
+        id=i;
         name=n;
         salary=sal;
     }
